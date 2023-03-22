@@ -10,6 +10,7 @@
 html, body {
 	height: 100%;
 	overflow: hidden;
+    background-color: #0D0F15;
 }
 .main-wrapper {
 	height: 100%;
